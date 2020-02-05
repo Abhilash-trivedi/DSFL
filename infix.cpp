@@ -131,6 +131,7 @@ public:
 
 }
 };
+//asjda
 int main()
 { int ch;
   post obj;
